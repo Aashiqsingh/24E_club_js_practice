@@ -1,0 +1,16 @@
+There are three types of oprator:
+1. unary operator
+        - it will required only one operand
+        ex : a++ , a-- 
+2. binary operator
+        - it will required two operand
+3. ternary operator
+        - it will required three operand
+
+
+Binary operator :
+1. Arithmatic operator : + , - , * , / , % , ** 
+2. Assignment operator : = (, += , -= , *= , /= , %=) -- short hand property
+3. logical operator : && , || , !
+4. bitwise operator : & , | 
+5. relational operator/ comparision operator : == , != , <= , >= , === , !== 
