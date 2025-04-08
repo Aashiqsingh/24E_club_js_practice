@@ -1,0 +1,1 @@
+find hour  , min and second.
